@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(./images/image_black_bg-removebg-preview.png);
+    /* background-image: url(./images/image_black_bg-removebg-preview.pn); */
     background-size:contain ;
     background-repeat: no-repeat;
     background-position: right center;
@@ -344,9 +344,9 @@ nav .fa{
 }
 
 @media only screen and (max-width: 600px){
-    #header{
+    /* #header{
         background-image: url('./images/image_black_bg-removebg-preview.png');
-    }
+    } */
     .header-text{
         margin-top: 30%;
         font-size: 16px;
